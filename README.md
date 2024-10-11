@@ -4,6 +4,8 @@ This repository contains custom layouts and configurations for MSI Afterburnerâ€
 
 ### YouTube tutorial: https://youtu.be/rRF6lW45c4c?si=7AVFbDvytrc9N98Q
 
+### Download link:
+https://github.com/sadraalikhah/RivaTuner_custom_layout/raw/refs/heads/main/MSI%20RivaTuner%20Custom%20layout.zip
 
 ## Layout preview
 
